@@ -3,3 +3,6 @@ Untitled.ipynb
 bert_embeddings.pkl
 bm25_model.pkl
 data
+bert-base-indonesian
+.ipynb_checkpoints
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
